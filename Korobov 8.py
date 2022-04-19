@@ -29,4 +29,4 @@ def input_id():
 
 num = input_id()
 Dima = Human(str(num))
-print(Dima)
+print(Dima)  # dima gay
